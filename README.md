@@ -1,6 +1,8 @@
 # Tauntaun (Work in Progress)
 
-Use Cortex Analyst and other future Snowflake Agents in just a few lines of code. Don't worry about message history, state management, or the underlying API.
+Tauntauns (Star Wars reference) are a creature native to the planet Hoth, known for their ability to withstand extreme cold (Snow) - They often traveled in herds and were used as transports by the Rebel Alliance. There are some fun Snowflake Agents parallels there.
+
+The goal of Tauntaun is to make it easy to use Snowflake Agents like Cortex Analyst in just a few lines of code. Don't worry about message history, state management, or the underlying API.
 
 ## High Level Usage
 
